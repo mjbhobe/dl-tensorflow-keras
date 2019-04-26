@@ -1,5 +1,5 @@
 # dl-tensorflow-keras
-Contains iPython Notebooks for my articles on Medium.com. Most of these notebooks have been designed to run on Google Colab (https://colab.research.google.com/) as well as offline. Google Colab provides an IPython Notebook like environment pre-loaded with all scientific & deep-learning libraries + __a free GPU!__ That is motivation enough for me to use Colab for all my Deep Learning projects. All you need to use Google Colab is a Google account, which I'm sure you will have ;).
+Contains iPython Notebooks for my posts on Medium.com. Most of these notebooks have been designed to run on Google Colab (https://colab.research.google.com/) as well as offline. Google Colab provides an IPython Notebook like environment pre-loaded with all scientific & deep-learning libraries + __a free GPU!__ That is motivation enough for me to use Colab for all my Deep Learning projects. All you need to use Google Colab is a Google account, which I'm sure you will have ;).
 
 ## Pre-requisites
 You will need the following Python libraries (all pre-installed on Colab!)
@@ -10,7 +10,7 @@ Code is not written for any specific version of the libraries - I used whatever 
 
 ## Contents
 1. **MNIST - Multiclass Classification - CNN - Keras.ipynb** :- MNIST digits classification with a Keras Convolutional Neural Network. Achieves 99% accuracy on test data!
-2. 
+2. **Fashion - CNN - Keras.ipynb** :- Classifying Fashion dataset with a Keras CNN. Referenced in the 
 I also provide some helper functions to load & save keras models + plot model's performance from training. These functions are available in the `kr_helper_funcs.py` 
 
 ## How to use
